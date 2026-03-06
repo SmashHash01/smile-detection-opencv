@@ -1,6 +1,4 @@
-# Welcome to GitHub Desktop!
+Smile Detection System (Machine Learning Project)
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-print('hello')
+#Project Overview
+A real-time computer vision application that detects human smiles from a webcam feed using Python and OpenCV Haarcascade classifiers. The system analyzes facial features and identifies smiling expressions with bounding box detection.
